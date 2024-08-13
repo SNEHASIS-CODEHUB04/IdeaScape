@@ -22,7 +22,7 @@ Utilized for building a dynamic and responsive user interface.
 - [Redux Toolkit](https://github.com/topics/redux-toolkit) : Manages the application's state.
 - [React Router DOM](https://github.com/topics/react-router) : Enables smooth navigation between different pages.
 
-##BackEnd
+## BackEnd
 
 - [Appwrite](https://appwrite.io/) : Backend service provider for handling authentication, database, and storage.
   ![Screenshot (15)](https://github.com/user-attachments/assets/478b34c6-302a-4da2-9292-de132ae27a4c)
@@ -32,7 +32,7 @@ Utilized for building a dynamic and responsive user interface.
 
 - Scalable Architecture : Designed to support future implementations, upgrades, or changes.
 
-##Functionalities
+## Functionalities
 
 - User Authentication: Users can create an account and log in.
   ![Screenshot (14)](https://github.com/user-attachments/assets/097e0a00-92ec-476c-8060-612be8334a8b)
