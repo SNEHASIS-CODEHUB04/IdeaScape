@@ -1,2 +1,2 @@
 # IdeaScape
-About full stack blog site using React.js and Appwrite.
+About full stack blog web using React.js and Appwrite.
