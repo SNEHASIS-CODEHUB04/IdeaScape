@@ -1,17 +1,27 @@
-# React + Vite
+<div align="center">
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+  
+  <div>
+    <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
+    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
+    <img src="https://img.shields.io/badge/-Appwrite-black?style=for-the-badge&logoColor=white&logo=appwrite&color=FD366E" alt="appwrite" />
+  </div>
 
-Currently, two official plugins are available:
+  <h3 align="center">IdeaScape - Blog Web App</h3>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+   <div align="center">
+     IdeaScape is a fullstack blog site where users can create and manage their own blog posts. Built with React.js on the frontend and Appwrite as the backend service and Database provider.
+    </div>
+</div>
 
-# Project Description 
-IdeaScape is a fullstack blog site where users can create and manage their own blog posts. Built with React.js on the frontend and Appwrite as the backend service and Database provider.
+## 📋 Table of Contents
 
+1. 🤖 FrontEnd
+2. ⚙️ BackEnd
+3. 🔋 Features
+4. 🤸 Quick Start
 
-## FrontEnd
+## 🤖 FrontEnd
 
 - [React.js](https://github.com/topics/reactjs) :
 Utilized for building a dynamic and responsive user interface.
@@ -22,7 +32,7 @@ Utilized for building a dynamic and responsive user interface.
 - [Redux Toolkit](https://github.com/topics/redux-toolkit) : Manages the application's state.
 - [React Router DOM](https://github.com/topics/react-router) : Enables smooth navigation between different pages.
 
-## BackEnd
+## ⚙️ BackEnd
 
 - [Appwrite](https://appwrite.io/) : Backend service provider for handling authentication, database, and storage.
   ![Screenshot (15)](https://github.com/user-attachments/assets/478b34c6-302a-4da2-9292-de132ae27a4c)
@@ -32,7 +42,7 @@ Utilized for building a dynamic and responsive user interface.
 
 - Scalable Architecture : Designed to support future implementations, upgrades, or changes.
 
-## Functionalities
+## 🔋 Features
 
 - User Authentication: Users can create an account and log in.
   ![Screenshot (14)](https://github.com/user-attachments/assets/097e0a00-92ec-476c-8060-612be8334a8b)
@@ -46,19 +56,44 @@ Utilized for building a dynamic and responsive user interface.
 - View Posts: All users, including non-authors, can view blog posts.
   ![Screenshot (12)](https://github.com/user-attachments/assets/745861f2-fca8-41ac-b6b3-90b02dad1b79)
 
-### Need To Install
+## 🤸 Quick Start
 
-   ```bash
-   npm i
-   npm @reduxjs/toolkit
-   npm react-redux
-   npm react-router-dom
-   npm appwrite
-   npm @tinymce/tinymce-react
-   npm html-react-parser
-   npm react-hook-form
-   npm install -D tailwindcss postcss autoprefixer
-   npx tailwindcss init -p
+Follow these steps to set up the project locally on your machine.
 
+**Prerequisites**
+
+Make sure you have the following installed on your machine:
+
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/en)
+- [npm](https://www.npmjs.com/) (Node Package Manager)
+
+**Cloning the Repository**
+
+```bash
+git clone https://github.com/SNEHASIS-CODEHUB04/IdeaScape.git
+cd IdeaScape
+```
+
+**Need To Install**
+
+```bash
+npm i
+npm @reduxjs/toolkit
+npm react-redux
+npm react-router-dom
+npm appwrite
+npm @tinymce/tinymce-react
+npm html-react-parser
+npm react-hook-form
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+```
+
+**Running the Project**
+
+```bash
+npm run dev
+```
 
 
